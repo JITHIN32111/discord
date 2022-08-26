@@ -1,0 +1,417 @@
+body {
+    margin: 0%;
+    font-family: "Ginto Normal", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+   
+
+}
+
+.img {
+    width: 100%;
+    height: 625px;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    margin-top: -626px;
+
+
+}
+
+.logo {
+    width: 124px;
+    height: 85px;
+    margin-top: 21px;
+    MARGIN-LEFT: 65PX;
+}
+
+.secondpage {
+    width: 100%;
+    height: 625px;
+}
+
+
+
+
+
+p:hover {
+    color:darkslateblue;
+}
+button:hover{
+    color:blue;
+}
+
+.menubar {
+    display: flex;
+    margin-top: -66px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 600;
+    margin-left: 369px;
+    justify-content: space-between;
+    margin-right: 399px;
+    color: aliceblue;
+}
+
+.button {
+    border-radius: 40px;
+    font-size: 14px;
+    padding: 7px 16px;
+    border: 0px;
+    margin-right: 28px;
+    transform: translate(1200px, -45px);
+}
+
+.heading {
+
+    line-height: 53.2px;
+    font-weight: 800;
+    font-size: 56px;
+    margin-left: 350px;
+    color: RGB(255, 255, 255);
+
+}
+
+.content {
+
+    line-height: 32.5px;
+    text-align: center;
+    color: RGB(255, 255, 255);
+    font-weight: 400;
+    margin-left: 318px;
+    margin-right: 382px;
+}
+
+.download {
+    display: flex;
+    transform: translate(369px, 31px);
+    width: 625px;
+    justify-content: space-evenly;
+}
+
+.icon1 {
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    line-height: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    border: 0;
+    background-color: white;
+    color: black;
+}
+
+.icon2 {
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    line-height: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    border: 0;
+    background-color: black;
+    color: white;
+}
+
+.secondpage {
+    display: flex;
+
+    margin-top: 205px;
+
+
+}
+
+.secondpageleft {
+    width: 60%;
+    height: 100%;
+
+
+}
+
+.secondpageright {
+    width: 40%;
+    height: 100%;
+
+
+}
+
+.imgleft {
+    margin-top: 110px;
+    margin-left: 115px;
+}
+
+.heading2 {
+    color: RGB(35, 39, 42);
+   
+    font-size: 52px;
+    line-height: 47.6px;
+    vertical-align: baseline;
+    font-weight: 700;
+    margin-left: 74px;
+    margin-right: 140px;
+    margin-top: 138px;
+}
+
+
+
+
+
+.parag {
+    color: RGB(35, 39, 42);
+    font-size: 20px;
+
+    font-size: 15px;
+    line-height: 32.5px;
+    font-weight: 400;
+    margin-right: 171px;
+    margin-left: 76px;
+}
+
+.thirdpage {
+    display: flex;
+
+    margin-top: 205px;
+
+}
+
+
+.thirdpageright {
+    width: 60%;
+    height: 100%;
+
+    margin-left: 540px;
+    margin-top: -455px;
+}
+
+
+
+.thirdpageleft {
+    width: 40%;
+    height: 100%;
+
+
+
+}
+
+.imgright {
+    margin-top: 110px;
+    margin-right: 115px;
+}
+
+.heading3 {
+    color: RGB(35, 39, 42);
+  
+    font-size: 52px;
+    line-height: 47.6px;
+    vertical-align: baseline;
+    font-weight: 700;
+    margin-left: 82px;
+    margin-right: 0px;
+    margin-top: 107px;
+}
+
+
+
+
+
+.parag1 {
+    color: RGB(35, 39, 42);
+    font-size: 20px;
+
+    font-size: 17px;
+    line-height: 32.5px;
+    font-weight: 400;
+    margin-right: 171px;
+    margin-left: 76px;
+}
+
+.fourthpage {
+    display: flex;
+
+    margin-top: 205px;
+
+
+}
+
+.fourthpageleft {
+    width: 60%;
+    height: 100%;
+
+
+
+}
+
+.fourthpageright {
+    width: 40%;
+    height: 100%;
+
+
+}
+
+.imgleft1 {
+    margin-top: 56px;
+    margin-left: 78px;
+}
+
+.fifthimage {
+    width: 1175px;
+    height: 644px;
+    margin-left: 90px;
+    margin-top: 159px;
+}
+
+.heading4 {
+    color: RGB(35, 39, 42);
+    
+    font-size: 40px;
+    line-height: 38px;
+    vertical-align: baseline;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 172px;
+}
+
+.parag3 {
+    color: black;
+    
+    font-size: 17px;
+    line-height: 32.5px;
+    vertical-align: baseline;
+    margin: -64px 249px 0;
+    font-weight: 400;
+    ;
+}
+
+.next {
+    margin-left: 372px;
+    color: black;
+
+    font-size: 17px;
+    line-height: 32.5px;
+    vertical-align: baseline;
+    font-weight: 400;
+    margin-top: -8px;
+
+}
+
+.heading5 {
+    color: RGB(35, 39, 42);
+  
+    font-size: 40px;
+    line-height: 38px;
+    vertical-align: baseline;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 121px;
+}
+
+.icon3 {
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+  
+    border: 0;
+
+    background-color: blue;
+    margin-left: 493px;
+    color: white;
+}
+
+.footer {
+    color: beige;
+    margin-top: 67px;
+    height: 385px;
+    background-color: #23272a;
+    display: flex;
+ 
+    font-size:
+        16px;
+    line-height:
+        18.4px;
+    font-weight:
+        400;
+
+
+
+}
+
+
+.footercontainer {
+    margin-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 68px;
+    font-size: 1pc;
+
+    line-height: 9px;
+    margin-left: 80px;
+}
+
+.footerheading {
+    margin-left: 1px;
+    color: blue;
+    font-size: 16px;
+}
+.alignfooter{
+    margin-left: 122px;
+    display: flex;
+}
+.lastheading{
+    font-size:
+32px;
+font-weight:
+800;
+
+margin-left: 10px;
+}
+.head{
+   
+
+    margin-left: 92px;
+    margin-top: 54px;
+    line-height: 35.4px;
+    font-size: 28px;
+    font-weight: 900;
+    color: blue;
+    color: blue;
+}
+.items{
+    display: flex;
+    margin-top: 181px;
+    width: 100px;
+    height: 10px;
+    align-content: space-between;
+    margin-left: -211px;
+    align-items: center;
+    font-size: 16px;
+}
+.button2 {
+  
+        background: blue;
+        margin-left: -121px;
+        border-radius: 40px;
+        font-size: 14px;
+        padding: 7px 16px;
+        border: 0px;
+        margin-right: 28px;
+        transform: translate(1200px, -45px);
+        margin-top: -25px;
+        color: whitesmoke;
+    }
+    .logo1{
+       
+        width: 124px;
+        height: 85px;
+        margin-top: -98px;
+        MARGIN-LEFT: 104PX;;
+        }
+    
+
